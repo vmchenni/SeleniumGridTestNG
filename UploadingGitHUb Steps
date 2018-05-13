@@ -1,0 +1,11 @@
+01. Open Git bash in the folder
+02. git init
+03. git status
+04. git add -A
+05. git status
+06. git add -A
+07. git status
+08. git commit -a -m "adding filetogether"
+09. git status
+10. git remote add origin https://github.com/vmchenni/SeleniumGridTestNG.git
+11. git push -u origin master
